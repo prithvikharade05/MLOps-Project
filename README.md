@@ -1,9 +1,9 @@
-# 🚀 BTC Forecasting MLOps Platform - Institutional Grade
+# 🚀 BTC Forecasting MLOps Platform
 
 [![GitHub stars](https://img.shields.io/github/stars/prithvikharade05/MLOps-Project?style=social)](https://github.com/prithvikharade05/MLOps-Project)
 [![GitHub license](https://img.shields.io/github/license/prithvikharade05/MLOps-Project)](https://github.com/prithvikharade05/MLOps-Project)
 
-**Bloomberg Terminal-style Bitcoin forecasting platform with complete MLOps pipeline, real-time inference, drift monitoring, and futuristic dashboard.**
+**Bitcoin forecasting platform with complete MLOps pipeline, real-time inference, drift monitoring, and futuristic dashboard.**
 
 ## ✨ **Key Features**
 - 🔄 **Live BTC/USDT Data** (Binance CCXT)
